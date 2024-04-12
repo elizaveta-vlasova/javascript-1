@@ -15,3 +15,4 @@ hourRate = 400 //payroll will not change in this case
 
 document.body.innerHTML = payroll
 
+//comment

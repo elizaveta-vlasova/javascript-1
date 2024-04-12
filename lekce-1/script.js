@@ -11,3 +11,5 @@ document.body.innerHTML += "<p>Jmenuji se " + "Liza</p>"
 document.body.innerHTML += "<p>Zaokrouhlene cislo " + Math.round(4.2) + "</p>"
 document.body.innerHTML += "<p> " + Math.random() + "</p>"
 document.body.innerHTML += "<p> " + Math.round(Math.random() * 10) + "</p>"
+
+//comment
